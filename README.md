@@ -1,2 +1,2 @@
 # MLINC
-Machine Learning Application for chemistry
+Machine Learning Application for ~~fun~~ chemistry
